@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Cindy Boren",
+            "title": "Davante Adams apologizes after shoving cameraman following Raiders' loss - The Washington Post",
+            "description": "Davante Adams shoved a cameraman after a frustrating one-point loss that included a failed two-point conversion and an embarrassing collision with a teammate.",
+            "url": "https://www.washingtonpost.com/sports/2022/10/11/davante-adams-apology/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6DFMQJMU5AHHBFZ3JRCWHIYW4.jpg&w=1440",
+            "publishedAt": "2022-10-11T14:29:37Z",
+            "content": "Las Vegas Raiders wide receiver Davante Adams, frustrated by his teams 30-29 loss to the Kansas City Chiefs on Monday night, took his emotions out on one of the first people he encountered as he left… [+2782 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Corey Gaskin",
+            "title": "All the Best Prime Day Deals During the Prime Early Access sale [Updated] - Ars Technica",
+            "description": "We've sorted through Amazon's pre-holiday sale to find the stuff that's worth your time.",
+            "url": "https://arstechnica.com/gadgets/2022/10/best-amazon-prime-day-deals-2022-1/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/prime-day-dm-760x380.jpg",
+            "publishedAt": "2022-10-11T14:11:12Z",
+            "content": "34 with 29 posters participating\r\nAmazon's Prime Day sales event came and went this past July, as it has every year since 2015. The two-day shopping event is exclusively for Amazon Prime members and … [+6201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt, Amanda Macias",
+            "title": "Sirens sound across Ukraine as Russia strikes cities again; Kyiv asks allies for air defense weapons - CNBC",
+            "description": "Ukraine is dusting itself off after a series of Russian attacks across the country which left at least 14 people dead and 97 injured.",
+            "url": "https://www.cnbc.com/2022/10/11/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107132305-1665467384557-gettyimages-1243865554-AA_10102022_896688.jpeg?v=1665472786&w=1920&h=1080",
+            "publishedAt": "2022-10-11T14:03:00Z",
+            "content": "The director of GCHQ, one of Britain's top intelligence agencies, will say in an address today that Russia is running out of supplies and munitions while their forces are exhausted as Ukraine turns t… [+1669 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mark Osborne, Isabella Murray",
+            "title": "Tulsi Gabbard announces she is leaving Democratic Party, calling it an 'elitist cabal of war mongers' - ABC News",
+            "description": "Gabbard ran for president as a Democrat in 2020.",
+            "url": "https://abcnews.go.com/Politics/tulsi-gabbard-announces-leaving-democratic-party/story?id=91326164",
+            "urlToImage": "https://s.abcnews.com/images/Politics/gabbard-ap-mo-20221011_1665491814738_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-10-11T14:00:08Z",
+            "content": "Former Hawaii Rep. Tulsi Gabbard announced she is leaving the Democratic Party, denouncing it as an \"elitist cabal of war mongers,\" while calling upon other \"common sense independent minded Democrats… [+3585 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gregory Krieg",
+            "title": "GOP surrogates to rally for Georgia's Herschel Walker in show of unyielding national party support - CNN",
+            "description": "The Republican cavalry is riding into Georgia on Tuesday for Senate nominee Herschel Walker, whose campaign was rocked last week by allegations the former football star -- who supports a national abortion ban without exceptions -- twice asked an ex-girlfriend…",
+            "url": "https://www.cnn.com/2022/10/11/politics/republicans-campaign-for-herschel-walker-georgia-senate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221011081326-herschel-walker.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-11T13:50:00Z",
+            "content": "The Republican cavalry is riding into Georgia on Tuesday for Senate nominee Herschel Walker, whose campaign was rocked last week by allegations the former football star who supports a national aborti… [+5834 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mia Alberti, Hadas Gold, Lianne Kolirin, Mostafa Salem",
+            "title": "Israel and Lebanon reach historic agreement, paving the way to potentially rich gas exploration - CNN",
+            "description": "Israel and Lebanon have reached a historic agreement, leaders on each side said separately on Tuesday, settling a years-long maritime border dispute involving major oil and gas fields in the Mediterranean.",
+            "url": "https://www.cnn.com/2022/10/11/middleeast/lebanon-israel-maritime-agreement-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221011101430-06-lebanon-israel-maritime.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-11T13:46:00Z",
+            "content": "Israel and Lebanon have reached a historic agreement, leaders on each side said separately on Tuesday, settling a years-long maritime border dispute involving major oil and gas fields in the Mediterr… [+3010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "NFL Nation",
+            "title": "NFL Week 6 Power Rankings 2022 - 1-32 poll, playoff chances - ESPN",
+            "description": "Through five games, here's how we see the entire NFL. Where do the Bills, Giants and Titans rank?",
+            "url": "https://www.espn.com/nfl/story/_/id/34769141/nfl-week-6-power-rankings-2022-1-32-poll-playoff-chances-biggest-obstacles-every-team",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1010%2Fnfl_power6_cr_16x9.jpg",
+            "publishedAt": "2022-10-11T13:21:39Z",
+            "content": "Welcome to Week 6 of the NFL regular season.\r\nOur power panel -- a group of more than 80 writers, editors and TV personalities -- evaluated how teams are stacking up through five weeks.\r\nThis week, o… [+23042 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Sam Machkovech",
+            "title": "RTX 4090 review: Spend at least $1,599 for Nvidia’s biggest bargain in years - Ars Technica",
+            "description": "Our review also dives deeply into DLSS 3—and how it may affect future Nvidia GPUs.",
+            "url": "https://arstechnica.com/gadgets/2022/10/rtx-4090-review-nvidias-biggest-gpu-is-easily-its-best/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/rtx4090-unboxing-listing-760x380.jpg",
+            "publishedAt": "2022-10-11T13:00:02Z",
+            "content": "Enlarge/ The Nvidia RTX 4090 founders edition. If you can't tell, those lines are drawn on, though the heft of this $1,599 product might convince you that they're a reflection of real-world motion bl… [+3537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFMZ Allentown"
+            },
+            "author": "Ali Reid",
+            "title": "Children, workers rushed to hospital after carbon monoxide leak at Allentown daycare - 69News WFMZ-TV",
+            "description": "Every ambulance in Allentown responded to a CO leak at the daycare Tuesday morning, authorities said.",
+            "url": "https://www.wfmz.com/news/area/lehighvalley/children-workers-rushed-to-hospital-after-carbon-monoxide-leak-at-allentown-daycare/article_7419d378-4957-11ed-9bdd-af5d7b787a36.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/d3/0d36df17-99f9-557b-8aa1-b703a14aa35a/6345695c2f5ba.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-10-11T12:59:21Z",
+            "content": "ALLENTOWN, Pa. - A carbon monoxide leak at a daycare has sent more than two dozen children and several workers to the hospital.\r\nEvery ambulance in Allentown responded Tuesday morning to the leak at … [+1546 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Elise Brisco, USA TODAY",
+            "title": "Kathie Lee Griffin speaks against Kelly Ripa's Regis Philbin comments - USA TODAY",
+            "description": "Kathie Lee Gifford is telling her truth after Kelly Ripa spoke out on \"false\" rumors about her relationship with former co-host Regis Philbin.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2022/10/11/kathie-lee-griffin-speaks-against-kelly-ripa-regis-philbin-comments/10464702002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/08/14/USAT/57cd17d6-7602-4cab-9d87-80383abb433d-KG_112418153.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+            "publishedAt": "2022-10-11T12:53:25Z",
+            "content": "Kathie Lee Gifford is speaking highly of her friendship with Regis Philbin, weeks after Kelly Ripa said she and her co-star's friendship \"didn't really exist.\"  \r\nGifford worked with Philbin on \"Live… [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alice Newcome-Beill",
+            "title": "Amazon October Prime Day 2022: games, accessories, and more - The Verge",
+            "description": "The Prime Day Early Access sale has arrived, and we’re bringing you all of the sweetest deals on games, controllers, headsets, keyboards monitors, and other hardware for your console or PC",
+            "url": "https://www.theverge.com/23393295/amazon-prime-deals-best-game-gaming-console-2022",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/w_eQaHPHeTGk2OS0dFkguYD1ytE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23067607/cfaulkner_141231_4910_0005.jpg",
+            "publishedAt": "2022-10-11T12:06:15Z",
+            "content": "The best gaming deals from Amazons Prime Early Access Sale\r\nThe best gaming deals from Amazons Prime Early Access Sale\r\n / Whether youre gaming on a console or PC, weve rounded up all the best deals … [+10613 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/valentina-palladino",
+            "title": "The best October Prime Day deals on headphones, earbuds and audio gadgets | Engadget - Engadget",
+            "description": "Here are the best deals on headphones, earbuds, speakers and other audio gadgets you can get for the Amazon Prime Early Access Sale..",
+            "url": "https://www.engadget.com/best-october-prime-day-2022-deals-headphones-earbuds-audio-gadgets-120051843.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/d209c570-0e7d-11ed-bdb2-ad63f9179873",
+            "publishedAt": "2022-10-11T12:01:37Z",
+            "content": "With the holiday season right around the corner, you probably have someone on your gift list who could use a new pair of headphones or earbuds. You can pick up their gifts for less right now thanks t… [+5826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Kim Kardashian paying for security at kids' school after Kanye's online attacks - Page Six",
+            "description": "The Skims founder is footing the bill for extra guards after the Yeezy fashion designer revealed the name of their children’s private school in Los Angeles.",
+            "url": "https://pagesix.com/2022/10/11/kim-kardashian-paying-for-extra-security-at-kids-school/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/10/kim-kardashian-kanye-west-13.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-10-11T11:54:00Z",
+            "content": "Kim Kardashian isn’t taking any risks when it comes to the safety of her children. \r\nThe Skims founder recently hired additional security to guard her kids’ private school after her ex-husband Kanye … [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arrowhead Pride"
+            },
+            "author": "Nick_Schwerdt",
+            "title": "Referee Carl Cheffers defended roughing the passer call against Chris Jones - Arrowhead Pride",
+            "description": "He may be the only person on the planet who thinks it was the right call",
+            "url": "https://www.arrowheadpride.com/2022/10/11/23398130/referee-carl-cheffers-defended-roughing-the-passer-call-against-chris-jones",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Cme2V8utfF1o5PGCBR3eDvfhuYg=/0x58:4367x2344/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24099156/1242626183.jpg",
+            "publishedAt": "2022-10-11T11:45:00Z",
+            "content": "Seldom are there moments in sports that unite an entire viewing audience. But when Chris Jones was flagged for roughing the passer on quarterback Derek Carr in the second quarter of the Kansas City C… [+3101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cosmopolitan.com"
+            },
+            "author": "Mehera  Bonner",
+            "title": "Tia Mowry Says She's Starting a New Chapter Following Cory Hardrict Split - Yahoo Life",
+            "description": "\"New Book, First Chapter to follow.\" ❤️",
+            "url": "https://www.cosmopolitan.com/entertainment/celebs/a41583888/tia-mowry-cory-hardrict-split-instagram/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cory-hardrict-and-tia-mowry-attend-the-2016-bet-awards-at-news-photo-1665487470.jpg?crop=1.00xw:0.433xh;0,0.0308xh&resize=1200:*",
+            "publishedAt": "2022-10-11T11:33:00Z",
+            "content": "Tia Mowry is starting a new chapter! The iconic Sister, Sister actor hopped online to thank her friends, family, and fans for their support following news that she and Cory Hardrict had split up. \"Ev… [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Chelsey Dulaney and Paul Hannon",
+            "title": "Bank of England Further Expands Bond-Market Rescue to Restore U.K.'s Financial Stability - The Wall Street Journal",
+            "description": "The BOE extended support targeted at pension funds for the second day in a row, the latest attempt to contain the fallout of a furious bond-market selloff that has threatened U.K. financial stability.",
+            "url": "https://www.wsj.com/articles/boe-adds-index-linked-gilts-to-bond-purchase-program-11665470476",
+            "urlToImage": "https://images.wsj.net/im-641283/social",
+            "publishedAt": "2022-10-11T11:29:00Z",
+            "content": "LONDONThe Bank of England extended support targeted at pension funds for the second day in a row, the latest attempt to contain the fallout of a furious bond-market selloff that has threatened U.K. f… [+420 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Cohen",
+            "title": "A colonoscopy study has some wondering if they should have the procedure. What you should know - CNN",
+            "description": "A new European study on colonoscopies -- the largest of its kind -- has complicated results, and it's left some people wondering whether they should have the procedure to screen for colon cancer.",
+            "url": "https://www.cnn.com/2022/10/10/health/colonoscopy-study-q-and-a-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210616144146-colon-cancer-vls.jpg?q=x_2,y_0,h_1078,w_1915,c_crop/w_800",
+            "publishedAt": "2022-10-11T10:17:00Z",
+            "content": "A new European study on colonoscopies the largest of its kind has complicated results, and its left some people wondering whether they should have the procedure to screen for colon cancer.\r\nI think t… [+4336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Ancient Mars May Have Been Teeming With Life, Until It Drove Climate Change That Caused Its Demise - SciTechDaily",
+            "description": "Early in its history, the red planet would have likely been habitable to methanogens – microbes that make a living in extreme habitats on Earth – according to a study that simulated the conditions on a young Mars. If there ever was life on Mars – and that's a…",
+            "url": "https://scitechdaily.com/ancient-mars-may-have-been-teeming-with-life-until-it-drove-climate-change-that-caused-its-demise/",
+            "urlToImage": "https://scitechdaily.com/images/Mars-Climate-Change.gif",
+            "publishedAt": "2022-10-11T10:12:11Z",
+            "content": "ByUniversity of ArizonaOctober 11, 2022\r\nResearchers in the University of Arizona Department of Ecology and Evolutionary Biology simulated the conditions hypothetical lifeforms would have encountered… [+9203 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "GM created a new energy business to sell batteries and solar panels in bid to dethrone Tesla - The Verge",
+            "description": "GM is creating a new energy business called GM Energy to sell batteries, EV chargers, software, and solar panels. The automaker not only wants to dethrone Tesla but also grab a piece of a $150 billion market.",
+            "url": "https://www.theverge.com/2022/10/11/23391433/gm-energy-ev-battery-solar-panel-charger-grid-utility",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/lT6NBbvgQLBpNGHha2A9b3OwXyQ=/0x0:8004x5322/1200x628/filters:focal(4002x2661:4003x2662)/cdn.vox-cdn.com/uploads/chorus_asset/file/24097435/GM_Energy__1_.jpg",
+            "publishedAt": "2022-10-11T10:00:00Z",
+            "content": "GM Energy is making a grab for a piece of the $150 billion energy generation and storage market. The automaker wants to shore up the grid in preparation for a tidal wave of new EVs. \r\nByAndrew J. Haw… [+6331 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "The Associated Press",
+            "title": "Denial-of-service attacks knock US airport websites offline - The Associated Press - en Español",
+            "description": "An apparently coordinated denial-of-service attack organized by pro-Russia hackers rendered the websites of some major U.S. airports unreachable early Monday, though officials said flights were not affected.",
+            "url": "https://apnews.com/article/technology-business-atlanta-680cf93f7eb0300127448c35299ad66e",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/277bb1aa19e3499db02b3ded9c4a10f5/3000.jpeg",
+            "publishedAt": "2022-10-11T09:33:14Z",
+            "content": "An apparently coordinated denial-of-service attack organized by pro-Russia hackers rendered the websites of some major U.S. airports unreachable early Monday, though officials said flights were not a… [+2004 chars]"
+        }
+    ]
+}
